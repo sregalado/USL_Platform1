@@ -1,0 +1,12 @@
+﻿[Configuration]
+CellState_0=Public.EventMsg@EventMsg@0@255@100@65280@0@0@2@false@true@-1@1289@0@0@0@0@@@0@-16777201@-16777208@0@
+CellState_1=Public.EventDetails@EventDetails@0@255@100@65280@0@0@2@false@true@-1@1289@0@0@0@0@@@0@-16777201@-16777208@0@
+CellState_2=Public.sndPrevParOrder@sndPrevParOrder@0@255@100@65280@0@0@2@false@true@-1@1289@0@0@0@0@@@0@-16777201@-16777208@0@
+CellState_3=Public.sndCurrParOrder@sndCurrParOrder@0@255@100@65280@0@0@2@false@true@-1@1289@0@0@0@0@@@0@-16777201@-16777208@0@
+AlarmInterval=10000
+NumRows=4
+NumCols=1
+UpdateInterval=1000
+ShowUnits=0
+Hidden=0
+
